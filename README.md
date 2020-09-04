@@ -9,15 +9,15 @@ I had the opportunity to work in a collaborative agile team using Scrum with a 2
 From September 2019 to May 2020 I worked as a frontend intern helping in the development of a web application whose objective was to manage and control entries and exits of Personal Protective Equipment products in large industries. I worked using some technologies like Laravel framework (5.8), PHP, MySQL, Javascript, jQuery, HTML5, CSS in Linux environment (Ubuntu). I also collaborated with the application documentation and the backend development.
 
 ## 📚 (Some) Knowledge
-Languages: Javascript, Typescript, PHP, Java.
+**Languages:** Javascript, Typescript, PHP, Java.
 
-Frontend: HTML5, CSS, Sass, Styled-Components, ReactJS, NextJS, GraphQL, Apollo GraphQL.
+**Frontend:** HTML5, CSS, Sass, Styled-Components, ReactJS, NextJS, GraphQL, Apollo GraphQL Laravel/Blade.
 
-Backend: NodeJS, Laravel
+**Backend:** NodeJS, Laravel
 
-Operational System: MacOS, Windows, Ubuntu.
+**Operational System:** MacOS, Windows, Ubuntu.
 
-Versioning: Git, GitHub, Gitlab, Bitbucket.
+**Versioning:** Git, GitHub, Gitlab, Bitbucket.
 
 ## 🎸 Fun facts
 I've lived in Japan, Belgium and I love playing video games, playing instruments like electric guitar, guitar or drums and taking pictures.

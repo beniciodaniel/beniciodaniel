@@ -2,7 +2,7 @@
 I'm currently working using Vue.js at Mercado Radar (a startup based in Curitiba / Brazil) and participating in Bootcamps (Rocketseat) and courses.
 
 ## 💻 Work Experiences 
-### Vue.js | Typescript
+### Vue.js | Vuex
 I am working on developing interfaces, implementing improvements and components for a web application that works on top of a big data based on data from Mercado Livre.
 
 ### ReactJS | NextJS | Typescript | GraphQL

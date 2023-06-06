@@ -1,5 +1,5 @@
 ## 🚀 Currently 
-I'm currently working using Vue.js at Mercado Radar (a startup based in Curitiba / Brazil) and participating in Bootcamps (Rocketseat) and courses.
+I am currently working on personal projects as a hobby.
 
 ## 💻 Work Experiences 
 ### Nuxt.js | Vue.js | Vuex | BootstrapVue | Vue-i18n -> At Mercado Radar

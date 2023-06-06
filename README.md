@@ -2,8 +2,8 @@
 I'm currently working using Vue.js at Mercado Radar (a startup based in Curitiba / Brazil) and participating in Bootcamps (Rocketseat) and courses.
 
 ## 💻 Work Experiences 
-### Nuxt.js | Vue.js | Vuex | BootstrapVue | Vue-i18n
-I am working on developing interfaces, implementing improvements and components for a web application that works on top of a big data based on data from Mercado Livre.
+### Nuxt.js | Vue.js | Vuex | BootstrapVue | Vue-i18n -> At Mercado Radar
+I had the opportunity to work with interface development, implementing improvements and components for a web application that works on top of big data based on Mercado Libre data.
 
 ### ReactJS | NextJS | Typescript | GraphQL
 I had the opportunity to work in a collaborative agile team using Scrum with a 2-week sprint (Jira / Bitbucket). I was able to contribute to the development of a web application using Typescript, Javascript, React JS (with hooks), Next JS, GraphQL, Apollo, Styled-Components and UI components of Ant Design. I worked helping to develop and or improve interfaces with new forms, validating values, creating new components, replacing components with others from other libraries, among other activities inherent to my role. To run the application server locally, I used Docker containers.
